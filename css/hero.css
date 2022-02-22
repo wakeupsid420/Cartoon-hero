@@ -4,6 +4,9 @@ body{
     font-size: 16px;
     line-height: 25.6px;
 }
+
+/* write your comment here */
+
 header{
     background-color: #d14635;
     text-align: center;
@@ -13,6 +16,7 @@ header{
 
 h1, h2{
     font-family: 'Press Start 2P', cursive;
+    line-height: 80px;
 }
 
 header h1{
